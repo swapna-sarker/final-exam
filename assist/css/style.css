@@ -6,11 +6,38 @@
 
 /* Header Section */
 .carousel-button {
-    background-color: #1bbca3;
-    border: none;
-    border-radius: 40px;
+  background-color: #1bbca3;
+  border: none;
+  border-radius: 40px;
 }
 
+/* About Section */
+.Read-More {
+  background-color: #1bbca3;
+}
+.about-section {
+  padding: 50px 0;
+}
+.about-content h2 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+.about-content p {
+  color: black;
+}
+.about-content ul {
+  list-style: none;
+  padding: 0;
+}
+.about-content ul li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.about-content ul li i {
+  color: #1bbca3;
+  margin-right: 10px;
+}
 
 
 /* More Services */
@@ -43,8 +70,13 @@
 
 
 /* Frequently Asked Questions Section */
-.faq-section {
-    padding: 60px 0;
+.Frequently-bg {
+  background-color: #f1f3f7;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  }
+  .FAQ-span {
+    color: #1bbca3;
   }
   .faq-title {
     margin-bottom: 15px;
@@ -62,19 +94,19 @@
 
   /* Contact Section */
   .contact-section {
-    background-color: #fff;
+    background-color: white;
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
 }
 
 .contact-box {
-    background-color: #f9f9f9;
+    background-color: white;
     border-radius: 10px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 
-.contact-box .icon {
-    color: #17a2b8;
+.contact-box svg {
+    color: #1bbca3;
 }
 
 .contact-box h5 {
@@ -82,12 +114,12 @@
 }
 
 form .btn {
-    background-color: #17a2b8;
+    background-color: #1bbca3;
     border: none;
 }
 
 form .btn:hover {
-    background-color: #138496;
+    background-color: #1bbca3;
 }
 
 /* Footer Section */
