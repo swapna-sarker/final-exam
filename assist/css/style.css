@@ -1,0 +1,83 @@
+/* Navbar Started */
+.bg-home {
+    background-color: #1bbca3;
+}
+
+
+/* Header Section */
+.carousel-button {
+    background-color: #1bbca3;
+    border: none;
+    border-radius: 40px;
+}
+
+
+
+/* More Services */
+.service-card {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px black;
+    overflow: hidden;
+    transition: transform 0.2s ease;
+  }
+
+  .service-card:hover {
+    transform: translateY(-10px);
+  }
+
+  .service-card img {
+    height: 350px;
+    object-fit: cover;
+  }
+
+  .section-heading {
+    font-size: 2rem;
+    color: black;
+    margin-bottom: 10px;
+  }
+
+  .section-subheading {
+    color: black;
+    margin-bottom: 40px;
+  }
+
+
+/* Frequently Asked Questions Section */
+.faq-section {
+    padding: 60px 0;
+  }
+  .faq-title {
+    margin-bottom: 15px;
+  }
+  .faq-subtitle {
+    color: black;
+    margin-bottom: 40px;
+  }
+  .accordion-button {
+    font-weight: bold;
+  }
+  .accordion-button:not(.collapsed) {
+    color: white;
+  }
+
+
+/* Footer Section */
+.footer {
+    background-color: black;
+    padding: 40px 0;
+}
+.footer a {
+    color: white;
+    text-decoration: none;
+}
+.footer a:hover {
+    color: white;
+}
+.social-icons i {
+    color: white;
+    font-size: 20px;
+    margin: 0 10px;
+}
+.social-icons i:hover {
+    color: white;
+}
