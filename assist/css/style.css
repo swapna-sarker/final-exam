@@ -43,9 +43,10 @@
 /* More Services */
 .service-card {
     border-radius: 10px;
-    box-shadow: 0 4px 8px black;
+    box-shadow: 0 5px 20px rgb(228, 226, 226);
     overflow: hidden;
     transition: transform 0.2s ease;
+    border: none;
   }
 
   .service-card:hover {
