@@ -15,8 +15,15 @@
 .Read-More {
   background-color: #1bbca3;
 }
+.about-svg svg {
+  color: #1bbca3;
+  font-size: 3rem;
+}
 .Read-More svg {
   color: white;
+}
+.about-content {
+  margin-top: -200px;
 }
 .about-section {
   padding: 50px 0;
@@ -46,7 +53,7 @@
 /* More Services */
 .service-card {
     border-radius: 10px;
-    box-shadow: 0 5px 20px rgb(228, 226, 226);
+    box-shadow: 0 5px 20px rgb(236, 236, 237);
     overflow: hidden;
     transition: transform 0.2s ease;
     border: none;
