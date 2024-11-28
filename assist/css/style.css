@@ -128,6 +128,9 @@ form .btn {
 form .btn:hover {
     background-color: #1bbca3;
 }
+.form-bg {
+  background-color: rgb(246, 246, 250);
+}
 
 /* Footer Section */
 .footer {
