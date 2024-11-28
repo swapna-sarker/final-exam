@@ -116,6 +116,9 @@
 .contact-box h5 {
     font-weight: bold;
 }
+.Send-Message {
+  margin-left: 250px;
+}
 
 form .btn {
     background-color: #1bbca3;
